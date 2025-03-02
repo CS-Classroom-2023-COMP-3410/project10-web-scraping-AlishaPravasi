@@ -1,0 +1,104 @@
+{
+  "events": [
+    {
+      "duTeam": "Men's Tennis",
+      "opponent": "Jacksonville State",
+      "date": "2025-02-23T10:30:00"
+    },
+    {
+      "duTeam": "Women's Lacrosse",
+      "opponent": "San Diego State",
+      "date": "2025-02-23T13:00:00"
+    },
+    {
+      "duTeam": "Women's Basketball",
+      "opponent": "South Dakota State",
+      "date": "2025-02-27T00:00:00"
+    },
+    {
+      "duTeam": "Men's Basketball",
+      "opponent": "Kansas City",
+      "date": "2025-02-27T18:00:00"
+    },
+    {
+      "duTeam": "Men's Tennis",
+      "opponent": "BYU",
+      "date": "2025-02-28T17:00:00"
+    },
+    {
+      "duTeam": "Women's Gymnastics",
+      "opponent": "Iowa State, (18) NC State",
+      "date": "2025-02-28T17:30:00"
+    },
+    {
+      "duTeam": "Men's Lacrosse",
+      "opponent": "Marist",
+      "date": "2025-02-28T18:00:00"
+    },
+    {
+      "duTeam": "Men's Ice Hockey",
+      "opponent": "St. Cloud State",
+      "date": "2025-02-28T19:00:00"
+    },
+    {
+      "duTeam": "Women's Basketball",
+      "opponent": "South Dakota",
+      "date": "2025-03-01T00:00:00"
+    },
+    {
+      "duTeam": "Women's Lacrosse",
+      "opponent": "Maryland",
+      "date": "2025-03-01T10:00:00"
+    },
+    {
+      "duTeam": "Men's Basketball",
+      "opponent": "South Dakota State",
+      "date": "2025-03-01T13:00:00"
+    },
+    {
+      "duTeam": "Women's Tennis",
+      "opponent": "Kansas City",
+      "date": "2025-03-01T13:30:00"
+    },
+    {
+      "duTeam": "Men's Ice Hockey",
+      "opponent": "St. Cloud State",
+      "date": "2025-03-01T18:00:00"
+    },
+    {
+      "duTeam": "Women's Tennis",
+      "opponent": "Omaha",
+      "date": "2025-03-02T10:00:00"
+    },
+    {
+      "duTeam": "Men's Tennis",
+      "opponent": "Utah",
+      "date": "2025-03-02T12:00:00"
+    },
+    {
+      "duTeam": "Men's Lacrosse",
+      "opponent": "Quinnipiac",
+      "date": "2025-03-02T12:00:00"
+    },
+    {
+      "duTeam": "Men's Soccer",
+      "opponent": "Colorado Rapids II",
+      "date": "2025-03-02T13:00:00"
+    },
+    {
+      "duTeam": "Women's Golf",
+      "opponent": "Round 1/2",
+      "date": "2025-03-03T00:00:00"
+    },
+    {
+      "duTeam": "Women's Golf",
+      "opponent": "Round 3",
+      "date": "2025-03-04T00:00:00"
+    },
+    {
+      "duTeam": "Skiing",
+      "opponent": "Giant Slalom",
+      "date": "2025-03-05T00:00:00"
+    }
+  ]
+}

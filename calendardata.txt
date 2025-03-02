@@ -1,0 +1,6684 @@
+[
+  {
+    "date": "2025-02-23T00:00:00",
+    "events": [
+      {
+        "id": 15284,
+        "date": "2025-02-23T10:30:00",
+        "time": "10:30 a.m. MT",
+        "conference": false,
+        "location": "Denver, Colo.",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "O",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Tennis",
+          "abbreviation": "MTEN",
+          "shortname": "mten",
+          "short_display": "M Tennis",
+          "global_sport_shortname": "mten"
+        },
+        "opponent": {
+          "id": 651,
+          "title": "Jacksonville State",
+          "prefix": null,
+          "website": "http://jaxstatesports.com/",
+          "location": "Jacksonville, AL",
+          "conference": false,
+          "mascot": "Gamecocks",
+          "image": {
+            "filename": "jax_state_200x200.png",
+            "path": "/images/logos",
+            "title": "Jacksonville State University Logo",
+            "alt": "Jacksonville State University Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Stream",
+            "url": "https://web.track.tennis/index.html#/@5c638fc9-a41c-4ab0-bcd1-69d94f585b7d/@5c638fc9-a41c-4ab0-bcd1-69d94f585b7d/evt-Lq8AHo78DNI",
+            "label": null
+          },
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Scoring",
+            "url": "https://ioncourt.com/ties/67b3bae23c78a1ac37e79cf7",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": {
+            "css_class": null,
+            "title": "Preview",
+            "url": "/news/2025/2/19/denver-mens-tennis-returns-home-for-two-matches.aspx",
+            "label": null
+          },
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": {
+          "status": "W",
+          "team_score": "5",
+          "opponent_score": "2",
+          "prescore_info": null,
+          "postscore_info": null,
+          "boxscore": {
+            "css_class": null,
+            "title": "Box Score",
+            "url": "/boxscore.aspx?id=15284",
+            "label": null
+          },
+          "recap": {
+            "css_class": null,
+            "title": "Recap",
+            "url": "/news/2025/2/23/denver-mens-tennis-tallies-5-2-win-over-jacksonville-state.aspx",
+            "label": null
+          }
+        },
+        "facility": {
+          "id": 12,
+          "title": "Denver Tennis Park",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15391,
+        "date": "2025-02-23T13:00:00",
+        "time": "1 p.m. MT",
+        "conference": false,
+        "location": "San Diego, California",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "O",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Lacrosse",
+          "abbreviation": "WLAX",
+          "shortname": "wlax",
+          "short_display": "W Lacrosse",
+          "global_sport_shortname": "wlax"
+        },
+        "opponent": {
+          "id": 368,
+          "title": "San Diego State",
+          "prefix": null,
+          "website": "http://www.goaztecs.com/",
+          "location": "San Diego, CA",
+          "conference": false,
+          "mascot": "Aztecs",
+          "image": {
+            "filename": "SDSU.png",
+            "path": "/images/logos",
+            "title": "San Diego State University Logo",
+            "alt": "San Diego State University Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.youtube.com/@SDSUAztecLacrosse",
+            "label": null
+          },
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://urldefense.com/v3/__https://stats.statbroadcast.com/broadcast/?id=584534__;!!NCZxaNi9jForCP_SxBKJCA!WoBQextdL8S0oB4ChJqo3IfuSUnLbwiEtRcYo7NTF_NC8f7MXNoSGDEzwENpJvplMhDrQ_oR2V8SgkhuIl-jC_vb$",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": {
+          "status": "W",
+          "team_score": "19",
+          "opponent_score": "9",
+          "prescore_info": null,
+          "postscore_info": null,
+          "boxscore": {
+            "css_class": null,
+            "title": "Box Score",
+            "url": "/boxscore.aspx?id=15391",
+            "label": null
+          },
+          "recap": {
+            "css_class": null,
+            "title": "Recap",
+            "url": "/news/2025/2/23/womens-lacrosse-denver-wins-third-straight-at-san-diego-state.aspx",
+            "label": null
+          }
+        },
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-02-24T00:00:00",
+    "events": null
+  },
+  {
+    "date": "2025-02-25T00:00:00",
+    "events": null
+  },
+  {
+    "date": "2025-02-26T00:00:00",
+    "events": null
+  },
+  {
+    "date": "2025-02-27T00:00:00",
+    "events": [
+      {
+        "id": 15282,
+        "date": "2025-02-27T00:00:00",
+        "time": "6:00 p.m. MT",
+        "conference": true,
+        "location": "Brookings, SD",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "O",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Basketball",
+          "abbreviation": "WBB",
+          "shortname": "wbball",
+          "short_display": "W Basketball",
+          "global_sport_shortname": "wbball"
+        },
+        "opponent": {
+          "id": 151,
+          "title": "South Dakota State",
+          "prefix": null,
+          "website": "http://www.gojacks.com/",
+          "location": "Brookings, SD",
+          "conference": false,
+          "mascot": "Jackrabbits",
+          "image": {
+            "filename": "South_Dakota_State.png",
+            "path": "/images/logos",
+            "title": "South Dakota State University Logo",
+            "alt": "South Dakota State University Logo"
+          }
+        },
+        "media": {
+          "tv": "Summit League Network",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.midcosportsplus.com/page/01H57TR0BWZFVJNDSXJJGFBB87",
+            "label": null
+          },
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://stats.statbroadcast.com/broadcast/?id=554994",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": {
+            "css_class": null,
+            "title": "Preview",
+            "url": "/news/2025/2/26/denver-womens-basketball-heads-to-brookings-for-battle-with-the-jacks.aspx",
+            "label": null
+          },
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": {
+          "status": "L",
+          "team_score": "37",
+          "opponent_score": "71",
+          "prescore_info": null,
+          "postscore_info": null,
+          "boxscore": {
+            "css_class": null,
+            "title": "Box Score",
+            "url": "/boxscore.aspx?id=15282",
+            "label": null
+          },
+          "recap": {
+            "css_class": null,
+            "title": "Recap",
+            "url": "/news/2025/2/27/womens-basketball-big-games-from-jones-smith-and-watts-not-enough-in-denvers-71-37-loss-to-south-dakota-state.aspx",
+            "label": null
+          }
+        },
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15258,
+        "date": "2025-02-27T18:00:00",
+        "time": "6 p.m. MT",
+        "conference": true,
+        "location": "Kansas City, Mo.",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "O",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Basketball",
+          "abbreviation": "MBB",
+          "shortname": "mbball",
+          "short_display": "M Basketball",
+          "global_sport_shortname": "mbball"
+        },
+        "opponent": {
+          "id": 411,
+          "title": "Kansas City",
+          "prefix": null,
+          "website": "https://kcroos.com/",
+          "location": "Kansas City, MO",
+          "conference": false,
+          "mascot": "Kangaroos",
+          "image": {
+            "filename": "umkc_logo.png",
+            "path": "/images/logos",
+            "title": "Kansas City Logo",
+            "alt": "Kansas City Logo"
+          }
+        },
+        "media": {
+          "tv": "Summit League Network",
+          "radio": "104.3 The Fan HD3",
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.midcosportsplus.com/page/01H57TR0BWZFVJNDSXJJGFBB87",
+            "label": null
+          },
+          "audio": {
+            "css_class": null,
+            "title": "Live Audio",
+            "url": "https://tuner.bonneville.com/live/KKFN-HD3",
+            "label": null
+          },
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://denverpioneers.com/sidearmstats/mbball/media",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": {
+            "css_class": null,
+            "title": "Preview",
+            "url": "/news/2025/2/25/mens-basketball-denver-opens-final-week-of-the-regular-season-at-kc-thursday.aspx",
+            "label": null
+          },
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": {
+          "status": "L",
+          "team_score": "56",
+          "opponent_score": "64",
+          "prescore_info": null,
+          "postscore_info": null,
+          "boxscore": {
+            "css_class": null,
+            "title": "Box Score",
+            "url": "/boxscore.aspx?id=15258",
+            "label": null
+          },
+          "recap": {
+            "css_class": null,
+            "title": "Recap",
+            "url": "/news/2025/2/27/mens-basketball-denver-falls-64-56-to-umkc.aspx",
+            "label": null
+          }
+        },
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-02-28T00:00:00",
+    "events": [
+      {
+        "id": 15233,
+        "date": "2025-02-28T17:00:00",
+        "time": "5 p.m. MT",
+        "conference": false,
+        "location": "Provo, Utah",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "O",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Tennis",
+          "abbreviation": "MTEN",
+          "shortname": "mten",
+          "short_display": "M Tennis",
+          "global_sport_shortname": "mten"
+        },
+        "opponent": {
+          "id": 376,
+          "title": "BYU",
+          "prefix": null,
+          "website": "http://www.byucougars.com",
+          "location": "Provo, UT",
+          "conference": false,
+          "mascot": "Cougars",
+          "image": {
+            "filename": "BYU_logo.png",
+            "path": "/images/logos",
+            "title": "Brigham Young University Logo",
+            "alt": "Brigham Young University Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Scoring",
+            "url": "http://stats.statbroadcast.com/broadcast/?id=583747",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": {
+            "css_class": null,
+            "title": "Preview",
+            "url": "/news/2025/2/26/denver-mens-tennis-heads-to-utah-for-two-power-4-match-ups.aspx",
+            "label": null
+          },
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": {
+          "status": "W",
+          "team_score": "4",
+          "opponent_score": "1",
+          "prescore_info": null,
+          "postscore_info": null,
+          "boxscore": null,
+          "recap": {
+            "css_class": null,
+            "title": "Recap",
+            "url": "/news/2025/2/28/no-70-denver-mens-tennis-grabs-road-win-at-byu.aspx",
+            "label": null
+          }
+        },
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15360,
+        "date": "2025-02-28T17:30:00",
+        "time": "5:30 p.m. MT",
+        "conference": true,
+        "location": "Ames, Iowa",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "O",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Gymnastics",
+          "abbreviation": "WGYM",
+          "shortname": "wgym",
+          "short_display": "W Gymnastics",
+          "global_sport_shortname": "wgym"
+        },
+        "opponent": {
+          "id": 412,
+          "title": "Iowa State, (18) NC State",
+          "prefix": null,
+          "website": "http://www.cyclones.com",
+          "location": "Ames, IA",
+          "conference": false,
+          "mascot": "Cyclones",
+          "image": {
+            "filename": "Iowa_State.png",
+            "path": "/images/logos",
+            "title": "Iowa State University Logo",
+            "alt": "Iowa State University Logo"
+          }
+        },
+        "media": {
+          "tv": "ESPN+",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Watch: ESPN+",
+            "url": "https://www.espn.com/watch/player/_/id/de4e8872-97d5-4bd9-a9e3-2a0e66f19089",
+            "label": null
+          },
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://virti.us/session?s=bFr3-pJAdW",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": {
+            "css_class": null,
+            "title": "Preview",
+            "url": "/news/2025/2/26/no-19-denver-gymnastics-finishes-big-12-road-trip-at-iowa-state-tri.aspx",
+            "label": null
+          },
+          "gamefiles": [
+            {
+              "css_class": "_blank",
+              "title": "History v ISU",
+              "url": "/sports/womens-gymnastics/opponent-history/iowa-state-university/412",
+              "label": null
+            },
+            {
+              "css_class": "_blank",
+              "title": "History v NCSU",
+              "url": "/sports/womens-gymnastics/opponent-history/nc-state-university/432",
+              "label": null
+            },
+            {
+              "css_class": "_blank",
+              "title": "Results",
+              "url": "https://roadtonationals.com/results/schedule/meet/30926",
+              "label": null
+            }
+          ],
+          "custom_display_fields": []
+        },
+        "result": {
+          "status": "N",
+          "team_score": null,
+          "opponent_score": null,
+          "prescore_info": null,
+          "postscore_info": "First, 196.750",
+          "boxscore": null,
+          "recap": {
+            "css_class": null,
+            "title": "Recap",
+            "url": "/news/2025/2/28/no-19-denver-gymnastics-tops-tri-meet-at-iowa-state.aspx",
+            "label": null
+          }
+        },
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15410,
+        "date": "2025-02-28T18:00:00",
+        "time": "6 p.m. MT",
+        "conference": false,
+        "location": "Denver, Colo.",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "O",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Lacrosse",
+          "abbreviation": "MLAX",
+          "shortname": "mlax",
+          "short_display": "M Lacrosse",
+          "global_sport_shortname": "mlax"
+        },
+        "opponent": {
+          "id": 521,
+          "title": "Marist",
+          "prefix": null,
+          "website": "http://www.goredfoxes.com/",
+          "location": "Poughkeepsie, NY",
+          "conference": false,
+          "mascot": "Red Foxes",
+          "image": {
+            "filename": "Marist_Red_Foxes.png",
+            "path": "/images/logos",
+            "title": "Marist University Logo",
+            "alt": "Marist University Logo"
+          }
+        },
+        "media": {
+          "tv": "Midco Sports Plus",
+          "radio": "ESPN Denver 1600",
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.midcosportsplus.com/details/LIVE_PROGRAM/item/6367884163112/marist-vs-denver",
+            "label": null
+          },
+          "audio": {
+            "css_class": null,
+            "title": "Live Audio",
+            "url": "https://tuner.bonneville.com/live/KEPN-AM",
+            "label": null
+          },
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://denverpioneers.com/sidearmstats/mlax/media",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": "Tickets",
+            "url": "https://denverpioneers.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:DENVER:LX25:LX03:&linkID=denver&dataAccId=677&locale=en_US&siteId=ev_denver&RSRC=comms&RDAT=release&RSRC=comms&RDAT=single&utm_source=sidearm&utm_medium=web&utm_campaign=schedule",
+            "label": "Tickets: Marist on February 28 6 p.m. MT"
+          },
+          "preview": {
+            "css_class": null,
+            "title": "Preview",
+            "url": "/news/2025/2/26/mens-lacrosse-17-15-denver-opens-two-game-home-weekend-vs-marist-friday.aspx",
+            "label": null
+          },
+          "gamefiles": [
+            {
+              "css_class": null,
+              "title": "Highlights",
+              "url": "/watch?Archive=4857&type=Archive",
+              "label": null
+            },
+            {
+              "css_class": null,
+              "title": "Highlights",
+              "url": "/watch?Archive=4857&type=Archive",
+              "label": null
+            }
+          ],
+          "custom_display_fields": []
+        },
+        "result": {
+          "status": "W",
+          "team_score": "18",
+          "opponent_score": "5",
+          "prescore_info": null,
+          "postscore_info": null,
+          "boxscore": {
+            "css_class": null,
+            "title": "Box Score",
+            "url": "/boxscore.aspx?id=15410",
+            "label": null
+          },
+          "recap": {
+            "css_class": null,
+            "title": "Recap",
+            "url": "/news/2025/2/28/mens-lacrosse-17-15-denvers-12-0-second-half-leads-pios-past-marist.aspx",
+            "label": null
+          }
+        },
+        "facility": {
+          "id": 10,
+          "title": "Peter Barton Lacrosse Stadium",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 14984,
+        "date": "2025-02-28T19:00:00",
+        "time": "7 p.m. MT",
+        "conference": true,
+        "location": "Denver, Colo.",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "O",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Ice Hockey",
+          "abbreviation": "HKY",
+          "shortname": "mhockey",
+          "short_display": "M Hockey",
+          "global_sport_shortname": "mhockey"
+        },
+        "opponent": {
+          "id": 371,
+          "title": "St. Cloud State",
+          "prefix": null,
+          "website": "http://scsuhuskies.com",
+          "location": "St. Cloud, MN",
+          "conference": false,
+          "mascot": "Huskies",
+          "image": {
+            "filename": "Saint-Cloud-State.png",
+            "path": "/images/logos",
+            "title": "St. Cloud State University Logo",
+            "alt": "St. Cloud State University Logo"
+          }
+        },
+        "media": {
+          "tv": "NCHC.tv",
+          "radio": "Denver Sports 104.3 HD3",
+          "video": {
+            "css_class": null,
+            "title": "NCHC.tv",
+            "url": "https://nchchockey.com/tv/schedule/week/2025-02-23",
+            "label": null
+          },
+          "audio": {
+            "css_class": null,
+            "title": "Live Audio",
+            "url": "https://tuner.bonneville.com/live/KKFN-HD3",
+            "label": null
+          },
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://denverpioneers.com/sidearmstats/mhockey/summary",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": "Tickets",
+            "url": "https://denverpioneers.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:DENVER:H25:H17:&linkID=denver&dataAccId=677&locale=en_US&siteId=ev_denver&RDAT=schedule&RSRC=comms&utm_source=sidearm&utm_medium=web&utm_campaign=singlegame",
+            "label": "Tickets: St. Cloud State on February 28 7 p.m. MT"
+          },
+          "preview": {
+            "css_class": null,
+            "title": "Preview",
+            "url": "/news/2025/2/27/preview-no-6-du-pioneers-hockey-begins-homestand-vs-st-cloud-state.aspx",
+            "label": null
+          },
+          "gamefiles": [
+            {
+              "css_class": null,
+              "title": "Highlights",
+              "url": "/watch?Archive=4858&type=Archive",
+              "label": null
+            },
+            {
+              "css_class": null,
+              "title": "Game Notes",
+              "url": "/documents/2025/2/27/20250228_DU_HKY_Game_Notes_SCSU_Weekend_Release.pdf",
+              "label": null
+            }
+          ],
+          "custom_display_fields": []
+        },
+        "result": {
+          "status": "W",
+          "team_score": "3",
+          "opponent_score": "1",
+          "prescore_info": null,
+          "postscore_info": null,
+          "boxscore": {
+            "css_class": null,
+            "title": "Box Score",
+            "url": "/boxscore.aspx?id=14984",
+            "label": null
+          },
+          "recap": {
+            "css_class": null,
+            "title": "Recap",
+            "url": "/news/2025/2/28/du-pioneers-hockey-st-cloud-state-recap-2025-february-28.aspx",
+            "label": null
+          }
+        },
+        "facility": {
+          "id": 4,
+          "title": "Magness Arena",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-01T00:00:00",
+    "events": [
+      {
+        "id": 15283,
+        "date": "2025-03-01T00:00:00",
+        "time": "12 p.m. MT",
+        "conference": true,
+        "location": "Vermillion, SD",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "O",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Basketball",
+          "abbreviation": "WBB",
+          "shortname": "wbball",
+          "short_display": "W Basketball",
+          "global_sport_shortname": "wbball"
+        },
+        "opponent": {
+          "id": 149,
+          "title": "South Dakota",
+          "prefix": null,
+          "website": "http://www.goyotes.com/",
+          "location": "Vermillion, SD",
+          "conference": false,
+          "mascot": "Coyotes",
+          "image": {
+            "filename": "South_Dakota_200x200.png",
+            "path": "/images/logos",
+            "title": "University of South Dakota Logo",
+            "alt": "University of South Dakota Logo"
+          }
+        },
+        "media": {
+          "tv": "Summit League Network",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.midcosportsplus.com/page/01H57TR0BWZFVJNDSXJJGFBB87",
+            "label": null
+          },
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://goyotes.com/sidearmstats/wbball",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": {
+            "css_class": null,
+            "title": "Preview",
+            "url": "/news/2025/2/28/womens-basketball-denver-takes-on-south-dakota-in-regular-season-finale.aspx",
+            "label": null
+          },
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": {
+          "status": "W",
+          "team_score": "63",
+          "opponent_score": "60",
+          "prescore_info": null,
+          "postscore_info": null,
+          "boxscore": {
+            "css_class": null,
+            "title": "Box Score",
+            "url": "/boxscore.aspx?id=15283",
+            "label": null
+          },
+          "recap": {
+            "css_class": null,
+            "title": "Recap",
+            "url": "/news/2025/3/1/womens-basketball-denver-secures-63-60-win-over-south-dakota-on-fourth-quarter-comeback.aspx",
+            "label": null
+          }
+        },
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15392,
+        "date": "2025-03-01T10:00:00",
+        "time": "10 a.m. MT",
+        "conference": false,
+        "location": "College Park, Maryland",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "O",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Lacrosse",
+          "abbreviation": "WLAX",
+          "shortname": "wlax",
+          "short_display": "W Lacrosse",
+          "global_sport_shortname": "wlax"
+        },
+        "opponent": {
+          "id": 327,
+          "title": "Maryland",
+          "prefix": "#9",
+          "website": "http://www.umterps.com/",
+          "location": "College Park, MD",
+          "conference": false,
+          "mascot": "Terrapins",
+          "image": {
+            "filename": "Maryland_Terps.png",
+            "path": "/images/logos",
+            "title": "University of Maryland Logo",
+            "alt": "University of Maryland Logo"
+          }
+        },
+        "media": {
+          "tv": "Big 10+",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.bigtenplus.com/en-int/livestream/denver-at-maryland/1877891",
+            "label": null
+          },
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://umterps.com/sidearmstats/wlax/summary",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": {
+            "css_class": null,
+            "title": "Preview",
+            "url": "/news/2025/2/27/womens-lacrosse-denver-travels-east-for-game-against-no-9-maryland.aspx",
+            "label": null
+          },
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": {
+          "status": "L",
+          "team_score": "10",
+          "opponent_score": "14",
+          "prescore_info": null,
+          "postscore_info": null,
+          "boxscore": {
+            "css_class": null,
+            "title": "Box Score",
+            "url": "/boxscore.aspx?id=15392",
+            "label": null
+          },
+          "recap": null
+        },
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15259,
+        "date": "2025-03-01T13:00:00",
+        "time": "1 p.m. MT",
+        "conference": true,
+        "location": "Denver, Colo.",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "O",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Basketball",
+          "abbreviation": "MBB",
+          "shortname": "mbball",
+          "short_display": "M Basketball",
+          "global_sport_shortname": "mbball"
+        },
+        "opponent": {
+          "id": 151,
+          "title": "South Dakota State",
+          "prefix": null,
+          "website": "http://www.gojacks.com/",
+          "location": "Brookings, SD",
+          "conference": false,
+          "mascot": "Jackrabbits",
+          "image": {
+            "filename": "South_Dakota_State.png",
+            "path": "/images/logos",
+            "title": "South Dakota State University Logo",
+            "alt": "South Dakota State University Logo"
+          }
+        },
+        "media": {
+          "tv": "Summit League Network",
+          "radio": "104.3 The Fan HD3",
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.midcosportsplus.com/page/01H57TR0BWZFVJNDSXJJGFBB87",
+            "label": null
+          },
+          "audio": {
+            "css_class": null,
+            "title": "Live Audio",
+            "url": "https://tuner.bonneville.com/live/KKFN-HD3",
+            "label": null
+          },
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://denverpioneers.com/sidearmstats/mbball/media",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": "Tickets",
+            "url": "https://denverpioneers.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:DENVER:MB25:MB14:&linkID=denver&dataAccId=677&locale=en_US&siteId=ev_denver&RSRC=comms&RDAT=homepage&RSRC=comms&RDAT=singlegame&utm_source=sidearm&utm_medium=web&utm_campaign=schedule&orchBypass=1",
+            "label": "Tickets: South Dakota State on March 1 1 p.m. MT"
+          },
+          "preview": {
+            "css_class": null,
+            "title": "Preview",
+            "url": "/news/2025/2/28/mens-basketball-denver-closes-regular-season-at-home-saturday.aspx",
+            "label": null
+          },
+          "gamefiles": [
+            {
+              "css_class": null,
+              "title": "Shammond Williams Postgame",
+              "url": "https://denverpioneers.com/watch/?Archive=4859&type=Archive",
+              "label": null
+            }
+          ],
+          "custom_display_fields": []
+        },
+        "result": {
+          "status": "W",
+          "team_score": "78",
+          "opponent_score": "62",
+          "prescore_info": null,
+          "postscore_info": null,
+          "boxscore": {
+            "css_class": null,
+            "title": "Box Score",
+            "url": "/boxscore.aspx?id=15259",
+            "label": null
+          },
+          "recap": {
+            "css_class": null,
+            "title": "Recap",
+            "url": "/news/2025/3/1/mens-basketball-denver-gets-45-bench-points-in-78-62-win-over-south-dakota-state.aspx",
+            "label": null
+          }
+        },
+        "facility": {
+          "id": 5,
+          "title": "Hamilton Gymnasium",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15077,
+        "date": "2025-03-01T13:30:00",
+        "time": "1:30 p.m. MT",
+        "conference": true,
+        "location": "Denver, Colo.",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "O",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Tennis",
+          "abbreviation": "WTEN",
+          "shortname": "wten",
+          "short_display": "W Tennis",
+          "global_sport_shortname": "wten"
+        },
+        "opponent": {
+          "id": 411,
+          "title": "Kansas City",
+          "prefix": null,
+          "website": "https://kcroos.com/",
+          "location": "Kansas City, MO",
+          "conference": false,
+          "mascot": "Kangaroos",
+          "image": {
+            "filename": "umkc_logo.png",
+            "path": "/images/logos",
+            "title": "Kansas City Logo",
+            "alt": "Kansas City Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Stream",
+            "url": "https://web.track.tennis/index.html#/@public-ULaMC1rz7M0/@public-ULaMC1rz7M0/evt-Ne_Y5MaVIYQ",
+            "label": null
+          },
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Scoring",
+            "url": "https://ioncourt.com/ties/67bc7d0e3c78a1ac371d5549",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": {
+            "css_class": null,
+            "title": "Preview",
+            "url": "/news/2025/2/27/denver-womens-tennis-opens-summit-league-play-on-saturday-sunday.aspx",
+            "label": null
+          },
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": {
+          "status": "W",
+          "team_score": "7",
+          "opponent_score": "0",
+          "prescore_info": null,
+          "postscore_info": null,
+          "boxscore": {
+            "css_class": null,
+            "title": "Box Score",
+            "url": "/boxscore.aspx?id=15077",
+            "label": null
+          },
+          "recap": {
+            "css_class": null,
+            "title": "Recap",
+            "url": "/news/2025/3/1/denver-womens-tennis-sweeps-kansas-city-in-summit-league-opener.aspx",
+            "label": null
+          }
+        },
+        "facility": {
+          "id": 12,
+          "title": "Denver Tennis Park",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 14985,
+        "date": "2025-03-01T18:00:00",
+        "time": "6 p.m. MT",
+        "conference": true,
+        "location": "Denver, Colo.",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Ice Hockey",
+          "abbreviation": "HKY",
+          "shortname": "mhockey",
+          "short_display": "M Hockey",
+          "global_sport_shortname": "mhockey"
+        },
+        "opponent": {
+          "id": 371,
+          "title": "St. Cloud State",
+          "prefix": null,
+          "website": "http://scsuhuskies.com",
+          "location": "St. Cloud, MN",
+          "conference": false,
+          "mascot": "Huskies",
+          "image": {
+            "filename": "Saint-Cloud-State.png",
+            "path": "/images/logos",
+            "title": "St. Cloud State University Logo",
+            "alt": "St. Cloud State University Logo"
+          }
+        },
+        "media": {
+          "tv": "NCHC.tv",
+          "radio": "Denver Sports 104.3 HD3",
+          "video": {
+            "css_class": null,
+            "title": "NCHC.tv",
+            "url": "https://nchchockey.com/tv/schedule/week/2025-02-23",
+            "label": null
+          },
+          "audio": {
+            "css_class": null,
+            "title": "Live Audio",
+            "url": "https://tuner.bonneville.com/live/KKFN-HD3",
+            "label": null
+          },
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://denverpioneers.com/sidearmstats/mhockey/summary",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": "Tickets",
+            "url": "https://denverpioneers.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:DENVER:H25:H18:&linkID=denver&dataAccId=677&locale=en_US&siteId=ev_denver&RDAT=schedule&RSRC=comms&utm_source=sidearm&utm_medium=web&utm_campaign=singlegame",
+            "label": "Tickets: St. Cloud State on March 1 6 p.m. MT"
+          },
+          "preview": {
+            "css_class": null,
+            "title": "Preview",
+            "url": "/news/2025/2/27/preview-no-6-du-pioneers-hockey-begins-homestand-vs-st-cloud-state.aspx",
+            "label": null
+          },
+          "gamefiles": [
+            {
+              "css_class": null,
+              "title": "Game Notes",
+              "url": "/documents/2025/3/1/20250301_DU_HKY_Game_Notes_SCSU_Saturday_Supplement.pdf",
+              "label": null
+            }
+          ],
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": {
+          "id": 4,
+          "title": "Magness Arena",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-02T00:00:00",
+    "events": [
+      {
+        "id": 15078,
+        "date": "2025-03-02T10:00:00",
+        "time": "10 a.m. MT",
+        "conference": true,
+        "location": "Denver, Colo.",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Tennis",
+          "abbreviation": "WTEN",
+          "shortname": "wten",
+          "short_display": "W Tennis",
+          "global_sport_shortname": "wten"
+        },
+        "opponent": {
+          "id": 93,
+          "title": "Omaha",
+          "prefix": null,
+          "website": "http://www.omavs.com",
+          "location": "Omaha, NE",
+          "conference": false,
+          "mascot": "Mavericks",
+          "image": {
+            "filename": "omaha_logo_200x200.png",
+            "path": "/images/logos",
+            "title": "University of Nebraska at Omaha Logo",
+            "alt": "Omaha"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Stream",
+            "url": "https://web.track.tennis/index.html#/@public-ULaMC1rz7M0/@public-ULaMC1rz7M0/evt-s25BxjfJRu4",
+            "label": null
+          },
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Scoring",
+            "url": "https://ioncourt.com/ties/67bc7db23c78a1ac371d57cd",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": {
+            "css_class": null,
+            "title": "Preview",
+            "url": "/news/2025/2/27/denver-womens-tennis-opens-summit-league-play-on-saturday-sunday.aspx",
+            "label": null
+          },
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": {
+          "id": 12,
+          "title": "Denver Tennis Park",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15234,
+        "date": "2025-03-02T12:00:00",
+        "time": "12 p.m. MT",
+        "conference": false,
+        "location": "Salt Lake City, Utah",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Tennis",
+          "abbreviation": "MTEN",
+          "shortname": "mten",
+          "short_display": "M Tennis",
+          "global_sport_shortname": "mten"
+        },
+        "opponent": {
+          "id": 311,
+          "title": "Utah",
+          "prefix": "#56",
+          "website": "http://www.utahutes.com/",
+          "location": "Salt Lake City, UT",
+          "conference": false,
+          "mascot": "Utes",
+          "image": {
+            "filename": "UtahUtesLogo.png",
+            "path": "/images/logos",
+            "title": "University of Utah Logo",
+            "alt": "University of Utah Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Scoring",
+            "url": "https://www.statbroadcast.com/events/statmonitr.php?gid=utah",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": {
+            "css_class": null,
+            "title": "Preview",
+            "url": "/news/2025/2/26/denver-mens-tennis-heads-to-utah-for-two-power-4-match-ups.aspx",
+            "label": null
+          },
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15411,
+        "date": "2025-03-02T12:00:00",
+        "time": "12 p.m. MT",
+        "conference": false,
+        "location": "Denver, Colo.",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Lacrosse",
+          "abbreviation": "MLAX",
+          "shortname": "mlax",
+          "short_display": "M Lacrosse",
+          "global_sport_shortname": "mlax"
+        },
+        "opponent": {
+          "id": 490,
+          "title": "Quinnipiac",
+          "prefix": null,
+          "website": "http://www.quinnipiacbobcats.com/",
+          "location": "Hamden, CT",
+          "conference": false,
+          "mascot": "Bobcats",
+          "image": {
+            "filename": "Growler_Halo_3C_DBG.png",
+            "path": "/images/logos",
+            "title": "Quinnipiac University Logo",
+            "alt": "Quinnipiac University Logo"
+          }
+        },
+        "media": {
+          "tv": "Midco Sports Plus",
+          "radio": "104.3 The Fan HD3",
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.midcosportsplus.com/details/LIVE_PROGRAM/item/6368155304112/quinnipiac-vs-denver",
+            "label": null
+          },
+          "audio": {
+            "css_class": null,
+            "title": "Live Audio",
+            "url": "https://tuner.bonneville.com/live/KKFN-HD3",
+            "label": null
+          },
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://denverpioneers.com/sidearmstats/mlax/media",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": "Tickets",
+            "url": "https://denverpioneers.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:DENVER:LX25:LX04:&linkID=denver&dataAccId=677&locale=en_US&siteId=ev_denver&RSRC=comms&RDAT=release&RSRC=comms&RDAT=single&utm_source=sidearm&utm_medium=web&utm_campaign=schedule",
+            "label": "Tickets: Quinnipiac on March 2 12 p.m. MT"
+          },
+          "preview": {
+            "css_class": null,
+            "title": "Preview",
+            "url": "/news/2025/3/1/mens-lacrosse-17-15-denver-closes-weekend-with-quinnipiac-sunday.aspx",
+            "label": null
+          },
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": {
+          "id": 10,
+          "title": "Peter Barton Lacrosse Stadium",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15435,
+        "date": "2025-03-02T13:00:00",
+        "time": "1 p.m. MT",
+        "conference": false,
+        "location": "Commerce City, Colo.",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "S",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Soccer",
+          "abbreviation": "MSOC",
+          "shortname": "msoc",
+          "short_display": "M Soccer",
+          "global_sport_shortname": "msoc"
+        },
+        "opponent": {
+          "id": null,
+          "title": "Colorado Rapids II",
+          "prefix": null,
+          "website": null,
+          "location": null,
+          "conference": null,
+          "mascot": null,
+          "image": null
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-03T00:00:00",
+    "events": [
+      {
+        "id": 15130,
+        "date": "2025-03-03T00:00:00",
+        "time": "",
+        "conference": false,
+        "location": "Fairfax, Calif.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Golf",
+          "abbreviation": "WGLF",
+          "shortname": "wgolf",
+          "short_display": "W Golf",
+          "global_sport_shortname": "wgolf"
+        },
+        "opponent": {
+          "id": 336,
+          "title": "Round 1/2",
+          "prefix": null,
+          "website": "http://www.csurams.com/",
+          "location": "San Jose, CA",
+          "conference": false,
+          "mascot": "Spartans",
+          "image": {
+            "filename": "SJS_SpartanHead-MAIN.png",
+            "path": "/images/logos",
+            "title": "San Jose State University Logo",
+            "alt": "San Jose State University Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 292,
+          "title": "Juli Inkster Invitational",
+          "website": null
+        },
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-04T00:00:00",
+    "events": [
+      {
+        "id": 15131,
+        "date": "2025-03-04T00:00:00",
+        "time": "",
+        "conference": false,
+        "location": "Fairfax, Calif.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Golf",
+          "abbreviation": "WGLF",
+          "shortname": "wgolf",
+          "short_display": "W Golf",
+          "global_sport_shortname": "wgolf"
+        },
+        "opponent": {
+          "id": 336,
+          "title": "Round 3",
+          "prefix": null,
+          "website": "http://www.thesundevils.com/",
+          "location": "San Jose, CA",
+          "conference": false,
+          "mascot": "Spartans",
+          "image": {
+            "filename": "SJS_SpartanHead-MAIN.png",
+            "path": "/images/logos",
+            "title": "San Jose State University Logo",
+            "alt": "San Jose State University Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 292,
+          "title": "Juli Inkster Invitational",
+          "website": null
+        },
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-05T00:00:00",
+    "events": [
+      {
+        "id": 15338,
+        "date": "2025-03-05T00:00:00",
+        "time": "",
+        "conference": false,
+        "location": "Lyme Center, N.H. / Dartmouth Skiway",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Skiing",
+          "abbreviation": "SKI",
+          "shortname": "skiing",
+          "short_display": "Skiing",
+          "global_sport_shortname": "alpine"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "Giant Slalom",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 210,
+          "title": "NCAA Championships",
+          "website": null
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15393,
+        "date": "2025-03-05T12:00:00",
+        "time": "12 p.m. MT",
+        "conference": false,
+        "location": "Denver, Colorado",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Lacrosse",
+          "abbreviation": "WLAX",
+          "shortname": "wlax",
+          "short_display": "W Lacrosse",
+          "global_sport_shortname": "wlax"
+        },
+        "opponent": {
+          "id": 362,
+          "title": "Michigan",
+          "prefix": null,
+          "website": "http://www.mgoblue.com/",
+          "location": "Ann Arbor, MI",
+          "conference": false,
+          "mascot": "Wolverines",
+          "image": {
+            "filename": "michigan_logo_200x200.png",
+            "path": "/images/logos",
+            "title": "University of Michigan Logo",
+            "alt": "University of Michigan Logo"
+          }
+        },
+        "media": {
+          "tv": "Midco Sports Plus",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.midcosportsplus.com/details/LIVE_PROGRAM/item/6368300256112/michigan-vs-denver",
+            "label": null
+          },
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://denverpioneers.com/sidearmstats/wlax/media",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": "Tickets",
+            "url": "https://denverpioneers.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:DENVER:WLX25:WLX02:&linkID=denver&dataAccId=677&locale=en_US&siteId=ev_denver&RSRC=comms&RDAT=release&RSRC=comms&RDAT=singlegame&utm_source=schedule&utm_medium=web&utm_campaign=singlegame",
+            "label": "Tickets: Michigan on March 5 12 p.m. MT"
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": {
+          "id": 10,
+          "title": "Peter Barton Lacrosse Stadium",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15370,
+        "date": "2025-03-05T15:30:00",
+        "time": "3:30 p.m. MT",
+        "conference": false,
+        "location": "Sioux Falls, S.D.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Basketball",
+          "abbreviation": "WBB",
+          "shortname": "wbball",
+          "short_display": "W Basketball",
+          "global_sport_shortname": "wbball"
+        },
+        "opponent": {
+          "id": 313,
+          "title": "Omaha ",
+          "prefix": "#8",
+          "website": "http://www.thesummitleague.org/",
+          "location": "Elmhurst, IL",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "TheSummitLeague.png",
+            "path": "/images/logos",
+            "title": "The Summit League Logo",
+            "alt": "Summit League"
+          }
+        },
+        "media": {
+          "tv": "Summit League Network",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.midcosportsplus.com/page/01H57TR0BWZFVJNDSXJJGFBB87",
+            "label": null
+          },
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 30,
+          "title": "Summit League Tournament",
+          "website": null
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15366,
+        "date": "2025-03-05T18:00:00",
+        "time": "6 p.m. MT",
+        "conference": false,
+        "location": "Sioux Falls, S.D.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Basketball",
+          "abbreviation": "MBB",
+          "shortname": "mbball",
+          "short_display": "M Basketball",
+          "global_sport_shortname": "mbball"
+        },
+        "opponent": {
+          "id": 313,
+          "title": "Opening Round",
+          "prefix": null,
+          "website": "http://www.thesummitleague.org/",
+          "location": "Elmhurst, IL",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "TheSummitLeague.png",
+            "path": "/images/logos",
+            "title": "The Summit League Logo",
+            "alt": "Summit League"
+          }
+        },
+        "media": {
+          "tv": "Summit League Network",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.midcosportsplus.com/page/01H57TR0BWZFVJNDSXJJGFBB87",
+            "label": null
+          },
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 133,
+          "title": "Summit League Tournament",
+          "website": null
+        },
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-06T00:00:00",
+    "events": [
+      {
+        "id": 15340,
+        "date": "2025-03-06T00:00:00",
+        "time": "",
+        "conference": false,
+        "location": "Hanover, N.H. / Oak Hill Outdoor Center",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Skiing",
+          "abbreviation": "SKI",
+          "shortname": "skiing",
+          "short_display": "Skiing",
+          "global_sport_shortname": "alpine"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "7.5K Classic",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 210,
+          "title": "NCAA Championships",
+          "website": null
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15371,
+        "date": "2025-03-06T11:00:00",
+        "time": "11 a.m./1:30 p.m. MT",
+        "conference": false,
+        "location": "Sioux Falls, S.D.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Basketball",
+          "abbreviation": "WBB",
+          "shortname": "wbball",
+          "short_display": "W Basketball",
+          "global_sport_shortname": "wbball"
+        },
+        "opponent": {
+          "id": 313,
+          "title": "Quarterfinal",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Elmhurst, IL",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "TheSummitLeague.png",
+            "path": "/images/logos",
+            "title": "The Summit League Logo",
+            "alt": "Summit League"
+          }
+        },
+        "media": {
+          "tv": "Summit League Network",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.midcosportsplus.com/page/01H57TR0BWZFVJNDSXJJGFBB87",
+            "label": null
+          },
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 30,
+          "title": "Summit League Tournament",
+          "website": null
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15367,
+        "date": "2025-03-06T17:00:00",
+        "time": "5 p.m./7:30 p.m. MT",
+        "conference": false,
+        "location": "Sioux Falls, S.D.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Basketball",
+          "abbreviation": "MBB",
+          "shortname": "mbball",
+          "short_display": "M Basketball",
+          "global_sport_shortname": "mbball"
+        },
+        "opponent": {
+          "id": 313,
+          "title": "Quarterfinal",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Elmhurst, IL",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "TheSummitLeague.png",
+            "path": "/images/logos",
+            "title": "The Summit League Logo",
+            "alt": "Summit League"
+          }
+        },
+        "media": {
+          "tv": "Summit League Network",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.midcosportsplus.com/page/01H57TR0BWZFVJNDSXJJGFBB87",
+            "label": null
+          },
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 133,
+          "title": "Summit League Tournament",
+          "website": null
+        },
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-07T00:00:00",
+    "events": [
+      {
+        "id": 15371,
+        "date": "2025-03-06T11:00:00",
+        "time": "11 a.m./1:30 p.m. MT",
+        "conference": false,
+        "location": "Sioux Falls, S.D.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Basketball",
+          "abbreviation": "WBB",
+          "shortname": "wbball",
+          "short_display": "W Basketball",
+          "global_sport_shortname": "wbball"
+        },
+        "opponent": {
+          "id": 313,
+          "title": "Quarterfinal",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Elmhurst, IL",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "TheSummitLeague.png",
+            "path": "/images/logos",
+            "title": "The Summit League Logo",
+            "alt": "Summit League"
+          }
+        },
+        "media": {
+          "tv": "Summit League Network",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.midcosportsplus.com/page/01H57TR0BWZFVJNDSXJJGFBB87",
+            "label": null
+          },
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 30,
+          "title": "Summit League Tournament",
+          "website": null
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15367,
+        "date": "2025-03-06T17:00:00",
+        "time": "5 p.m./7:30 p.m. MT",
+        "conference": false,
+        "location": "Sioux Falls, S.D.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Basketball",
+          "abbreviation": "MBB",
+          "shortname": "mbball",
+          "short_display": "M Basketball",
+          "global_sport_shortname": "mbball"
+        },
+        "opponent": {
+          "id": 313,
+          "title": "Quarterfinal",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Elmhurst, IL",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "TheSummitLeague.png",
+            "path": "/images/logos",
+            "title": "The Summit League Logo",
+            "alt": "Summit League"
+          }
+        },
+        "media": {
+          "tv": "Summit League Network",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.midcosportsplus.com/page/01H57TR0BWZFVJNDSXJJGFBB87",
+            "label": null
+          },
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 133,
+          "title": "Summit League Tournament",
+          "website": null
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15339,
+        "date": "2025-03-07T00:00:00",
+        "time": "",
+        "conference": false,
+        "location": "Lyme Center, N.H. / Dartmouth Skiway",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Skiing",
+          "abbreviation": "SKI",
+          "shortname": "skiing",
+          "short_display": "Skiing",
+          "global_sport_shortname": "alpine"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "Slalom",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 210,
+          "title": "NCAA Championships",
+          "website": null
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 14986,
+        "date": "2025-03-07T19:00:00",
+        "time": "7 p.m. MT",
+        "conference": true,
+        "location": "Denver, Colo.",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Ice Hockey",
+          "abbreviation": "HKY",
+          "shortname": "mhockey",
+          "short_display": "M Hockey",
+          "global_sport_shortname": "mhockey"
+        },
+        "opponent": {
+          "id": 58,
+          "title": "Colorado College",
+          "prefix": null,
+          "website": "http://www.cctigers.com",
+          "location": "Colorado Springs, CO",
+          "conference": false,
+          "mascot": "Tigers",
+          "image": {
+            "filename": "ColoradoCollege.png",
+            "path": "/images/logos",
+            "title": "Colorado College Logo",
+            "alt": "Colorado College"
+          }
+        },
+        "media": {
+          "tv": "Altitude 2/NCHC.tv",
+          "radio": "Denver Sports 104.3 HD3",
+          "video": {
+            "css_class": null,
+            "title": "NCHC.tv",
+            "url": "https://nchchockey.com/tv/schedule/week/2025-03-02",
+            "label": null
+          },
+          "audio": {
+            "css_class": null,
+            "title": "Live Audio",
+            "url": "https://tuner.bonneville.com/live/KKFN-HD3",
+            "label": null
+          },
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://denverpioneers.com/sidearmstats/mhockey/summary",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": "Tickets",
+            "url": "https://denverpioneers.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:DENVER:H25:H19:&linkID=denver&dataAccId=677&locale=en_US&siteId=ev_denver&RDAT=schedule&RSRC=comms&utm_source=sidearm&utm_medium=web&utm_campaign=singlegame",
+            "label": "Tickets: Colorado College on March 7 7 p.m. MT"
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": {
+          "id": 4,
+          "title": "Magness Arena",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-08T00:00:00",
+    "events": [
+      {
+        "id": 15341,
+        "date": "2025-03-08T00:00:00",
+        "time": "",
+        "conference": false,
+        "location": "Hanover, N.H. / Oak Hill Outdoor Center",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Skiing",
+          "abbreviation": "SKI",
+          "shortname": "skiing",
+          "short_display": "Skiing",
+          "global_sport_shortname": "alpine"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "20K Freestyle",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 210,
+          "title": "NCAA Championships",
+          "website": null
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15412,
+        "date": "2025-03-08T10:00:00",
+        "time": "10 a.m. MT",
+        "conference": false,
+        "location": "New Haven, Conn.",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Lacrosse",
+          "abbreviation": "MLAX",
+          "shortname": "mlax",
+          "short_display": "M Lacrosse",
+          "global_sport_shortname": "mlax"
+        },
+        "opponent": {
+          "id": 378,
+          "title": "Yale",
+          "prefix": null,
+          "website": "http://www.yalebulldogs.com",
+          "location": "New Haven, CT",
+          "conference": false,
+          "mascot": "Bulldogs",
+          "image": {
+            "filename": "YALE_LOGO_2020.png",
+            "path": "/images/logos",
+            "title": "Yale University Logo",
+            "alt": "Yale University Logo"
+          }
+        },
+        "media": {
+          "tv": "ESPN+",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.espn.com/espnplus/catalog/5502ec5b-0e6b-3922-8086-2381731c1d26/ncaa-men-s-lacrosse#bucketId=1",
+            "label": null
+          },
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://yalebulldogs.com/sidearmstats/mlax/summary",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15079,
+        "date": "2025-03-08T10:00:00",
+        "time": "10 a.m. MT",
+        "conference": true,
+        "location": "Denver, Colo.",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Tennis",
+          "abbreviation": "WTEN",
+          "shortname": "wten",
+          "short_display": "W Tennis",
+          "global_sport_shortname": "wten"
+        },
+        "opponent": {
+          "id": 676,
+          "title": "St. Thomas",
+          "prefix": null,
+          "website": "http://www.tommiesports.com",
+          "location": "St. Paul, MN",
+          "conference": false,
+          "mascot": "Tommies",
+          "image": {
+            "filename": "University_of-_St_Thomas.png",
+            "path": "/images/logos",
+            "title": "University of St. Thomas Logo",
+            "alt": "University of St. Thomas Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": {
+          "id": 12,
+          "title": "Denver Tennis Park",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15372,
+        "date": "2025-03-08T11:00:00",
+        "time": "11 a.m./1:30 p.m. MT",
+        "conference": false,
+        "location": "Sioux Falls, S.D.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Basketball",
+          "abbreviation": "WBB",
+          "shortname": "wbball",
+          "short_display": "W Basketball",
+          "global_sport_shortname": "wbball"
+        },
+        "opponent": {
+          "id": 313,
+          "title": "Semifinal",
+          "prefix": null,
+          "website": "http://www.bigeast.com/",
+          "location": "Elmhurst, IL",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "TheSummitLeague.png",
+            "path": "/images/logos",
+            "title": "The Summit League Logo",
+            "alt": "Summit League"
+          }
+        },
+        "media": {
+          "tv": "Summit League Network",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://www.midcosportsplus.com/page/01H57TR0BWZFVJNDSXJJGFBB87",
+            "label": null
+          },
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 30,
+          "title": "Summit League Tournament",
+          "website": null
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 14987,
+        "date": "2025-03-08T18:00:00",
+        "time": "6 p.m. MT",
+        "conference": true,
+        "location": "Colorado Springs, Colo.",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Ice Hockey",
+          "abbreviation": "HKY",
+          "shortname": "mhockey",
+          "short_display": "M Hockey",
+          "global_sport_shortname": "mhockey"
+        },
+        "opponent": {
+          "id": 58,
+          "title": "Colorado College",
+          "prefix": null,
+          "website": "http://www.cctigers.com",
+          "location": "Colorado Springs, CO",
+          "conference": false,
+          "mascot": "Tigers",
+          "image": {
+            "filename": "ColoradoCollege.png",
+            "path": "/images/logos",
+            "title": "Colorado College Logo",
+            "alt": "Colorado College"
+          }
+        },
+        "media": {
+          "tv": "NCHC.tv",
+          "radio": "Denver Sports 104.3 HD3",
+          "video": {
+            "css_class": null,
+            "title": "NCHC.tv",
+            "url": "https://nchchockey.com/tv/schedule/week/2025-03-02",
+            "label": null
+          },
+          "audio": {
+            "css_class": null,
+            "title": "Live Audio",
+            "url": "https://tuner.bonneville.com/live/KKFN-HD3",
+            "label": null
+          },
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://cctigers.com/sidearmstats/mhockey/summary",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15368,
+        "date": "2025-03-08T18:00:00",
+        "time": "6 p.m./8:30 p.m. MT",
+        "conference": false,
+        "location": "Sioux Falls, S.D.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Basketball",
+          "abbreviation": "MBB",
+          "shortname": "mbball",
+          "short_display": "M Basketball",
+          "global_sport_shortname": "mbball"
+        },
+        "opponent": {
+          "id": 313,
+          "title": "Semifinal",
+          "prefix": null,
+          "website": "http://www.bigeast.com/",
+          "location": "Elmhurst, IL",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "TheSummitLeague.png",
+            "path": "/images/logos",
+            "title": "The Summit League Logo",
+            "alt": "Summit League"
+          }
+        },
+        "media": {
+          "tv": "CBS Sports Network",
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 133,
+          "title": "Summit League Tournament",
+          "website": null
+        },
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-09T00:00:00",
+    "events": [
+      {
+        "id": 15394,
+        "date": "2025-03-09T11:00:00",
+        "time": "11 a.m. MT",
+        "conference": false,
+        "location": "Denver, Colorado",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Lacrosse",
+          "abbreviation": "WLAX",
+          "shortname": "wlax",
+          "short_display": "W Lacrosse",
+          "global_sport_shortname": "wlax"
+        },
+        "opponent": {
+          "id": 459,
+          "title": "Fairfield",
+          "prefix": null,
+          "website": "http://www.fairfieldstags.com",
+          "location": "Fairfield, CT",
+          "conference": false,
+          "mascot": "Stags",
+          "image": {
+            "filename": "fairfield_logo.png",
+            "path": "/images/logos",
+            "title": "Fairfield University Logo",
+            "alt": "Fairfield University Logo"
+          }
+        },
+        "media": {
+          "tv": "Midco Sports Plus",
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://denverpioneers.com/sidearmstats/wlax/media",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": "Tickets",
+            "url": "https://denverpioneers.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:DENVER:WLX25:WLX03:&linkID=denver&dataAccId=677&locale=en_US&siteId=ev_denver&RSRC=comms&RDAT=release&RSRC=comms&RDAT=singlegame&utm_source=schedule&utm_medium=web&utm_campaign=singlegame",
+            "label": "Tickets: Fairfield on March 9 11 a.m. MT"
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": {
+          "id": 10,
+          "title": "Peter Barton Lacrosse Stadium",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15361,
+        "date": "2025-03-09T13:45:00",
+        "time": "1:45 p.m. MT",
+        "conference": true,
+        "location": "Denver, Colo.",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Gymnastics",
+          "abbreviation": "WGYM",
+          "shortname": "wgym",
+          "short_display": "W Gymnastics",
+          "global_sport_shortname": "wgym"
+        },
+        "opponent": {
+          "id": 426,
+          "title": "Arizona State",
+          "prefix": null,
+          "website": "http://www.thesundevils.com/",
+          "location": "Tempe, AZ",
+          "conference": false,
+          "mascot": "Sun Devils",
+          "image": {
+            "filename": "Arizona-State.png",
+            "path": "/images/logos",
+            "title": "Arizona State University Logo",
+            "alt": "Arizona State University Logo"
+          }
+        },
+        "media": {
+          "tv": "Midco Sports Plus",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Watch (Midco Sports Plus)",
+            "url": "https://www.midcosportsplus.com/page/01JD7HDFETYC80D4PDKE2RPG7C",
+            "label": null
+          },
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": "Tickets",
+            "url": "https://denverpioneers.evenue.net/list/G?RDAT=ticketcentral&RSRC=comms&utm_source=sidearm&utm_medium=web&utm_campaign=tickethome",
+            "label": "Tickets: Arizona State on March 9 1:45 p.m. MT"
+          },
+          "preview": null,
+          "gamefiles": [
+            {
+              "css_class": "_blank",
+              "title": "History v ASU",
+              "url": "/sports/womens-gymnastics/opponent-history/arizona-state-university/426",
+              "label": null
+            }
+          ],
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": {
+          "id": 4,
+          "title": "Magness Arena",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15373,
+        "date": "2025-03-09T14:00:00",
+        "time": "2 p.m. MT",
+        "conference": false,
+        "location": "Sioux Falls, S.D.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Basketball",
+          "abbreviation": "WBB",
+          "shortname": "wbball",
+          "short_display": "W Basketball",
+          "global_sport_shortname": "wbball"
+        },
+        "opponent": {
+          "id": 313,
+          "title": "Championship",
+          "prefix": null,
+          "website": "http://www.thesummitleague.org/",
+          "location": "Elmhurst, IL",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "TheSummitLeague.png",
+            "path": "/images/logos",
+            "title": "The Summit League Logo",
+            "alt": "Summit League"
+          }
+        },
+        "media": {
+          "tv": "CBS Sports Network",
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 30,
+          "title": "Summit League Tournament",
+          "website": null
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15369,
+        "date": "2025-03-09T19:00:00",
+        "time": "7 p.m. MT",
+        "conference": false,
+        "location": "Sioux Falls, S.D.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Basketball",
+          "abbreviation": "MBB",
+          "shortname": "mbball",
+          "short_display": "M Basketball",
+          "global_sport_shortname": "mbball"
+        },
+        "opponent": {
+          "id": 313,
+          "title": "Championship",
+          "prefix": null,
+          "website": "http://www.thesummitleague.org/",
+          "location": "Elmhurst, IL",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "TheSummitLeague.png",
+            "path": "/images/logos",
+            "title": "The Summit League Logo",
+            "alt": "Summit League"
+          }
+        },
+        "media": {
+          "tv": "CBS Sports Network",
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 133,
+          "title": "Summit League Tournament",
+          "website": null
+        },
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-10T00:00:00",
+    "events": [
+      {
+        "id": 15211,
+        "date": "2025-03-10T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Federal Way, Wash.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Swimming & Diving",
+          "abbreviation": "WSWIM",
+          "shortname": "wswim",
+          "short_display": "W Swimming",
+          "global_sport_shortname": "wswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Zone E Diving",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15191,
+        "date": "2025-03-10T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Federal Way, Wash.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Swimming & Diving",
+          "abbreviation": "MSWIM",
+          "shortname": "mswim",
+          "short_display": "M Swimming",
+          "global_sport_shortname": "mswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Zone E Diving",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-11T00:00:00",
+    "events": [
+      {
+        "id": 15211,
+        "date": "2025-03-10T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Federal Way, Wash.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Swimming & Diving",
+          "abbreviation": "WSWIM",
+          "shortname": "wswim",
+          "short_display": "W Swimming",
+          "global_sport_shortname": "wswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Zone E Diving",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15191,
+        "date": "2025-03-10T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Federal Way, Wash.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Swimming & Diving",
+          "abbreviation": "MSWIM",
+          "shortname": "mswim",
+          "short_display": "M Swimming",
+          "global_sport_shortname": "mswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Zone E Diving",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-12T00:00:00",
+    "events": [
+      {
+        "id": 15211,
+        "date": "2025-03-10T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Federal Way, Wash.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Swimming & Diving",
+          "abbreviation": "WSWIM",
+          "shortname": "wswim",
+          "short_display": "W Swimming",
+          "global_sport_shortname": "wswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Zone E Diving",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15191,
+        "date": "2025-03-10T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Federal Way, Wash.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Swimming & Diving",
+          "abbreviation": "MSWIM",
+          "shortname": "mswim",
+          "short_display": "M Swimming",
+          "global_sport_shortname": "mswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Zone E Diving",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15192,
+        "date": "2025-03-12T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Ocala, Fla.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Swimming & Diving",
+          "abbreviation": "MSWIM",
+          "shortname": "mswim",
+          "short_display": "M Swimming",
+          "global_sport_shortname": "mswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NIC Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15212,
+        "date": "2025-03-12T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Ocala, Fla.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Swimming & Diving",
+          "abbreviation": "WSWIM",
+          "shortname": "wswim",
+          "short_display": "W Swimming",
+          "global_sport_shortname": "wswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NIC Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-13T00:00:00",
+    "events": [
+      {
+        "id": 15192,
+        "date": "2025-03-12T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Ocala, Fla.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Swimming & Diving",
+          "abbreviation": "MSWIM",
+          "shortname": "mswim",
+          "short_display": "M Swimming",
+          "global_sport_shortname": "mswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NIC Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15212,
+        "date": "2025-03-12T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Ocala, Fla.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Swimming & Diving",
+          "abbreviation": "WSWIM",
+          "shortname": "wswim",
+          "short_display": "W Swimming",
+          "global_sport_shortname": "wswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NIC Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-14T00:00:00",
+    "events": [
+      {
+        "id": 15192,
+        "date": "2025-03-12T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Ocala, Fla.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Swimming & Diving",
+          "abbreviation": "MSWIM",
+          "shortname": "mswim",
+          "short_display": "M Swimming",
+          "global_sport_shortname": "mswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NIC Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15212,
+        "date": "2025-03-12T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Ocala, Fla.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Swimming & Diving",
+          "abbreviation": "WSWIM",
+          "shortname": "wswim",
+          "short_display": "W Swimming",
+          "global_sport_shortname": "wswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NIC Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15443,
+        "date": "2025-03-14T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Campus Sites",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Ice Hockey",
+          "abbreviation": "HKY",
+          "shortname": "mhockey",
+          "short_display": "M Hockey",
+          "global_sport_shortname": "mhockey"
+        },
+        "opponent": {
+          "id": 443,
+          "title": "Quarterfinals",
+          "prefix": null,
+          "website": "https://www.nchchockey.com/",
+          "location": "Colorado Springs, Colo.",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "cats.png",
+            "path": "/images/2018/6/29",
+            "title": "NCHC",
+            "alt": "NCHC"
+          }
+        },
+        "media": {
+          "tv": "NCHC.tv",
+          "radio": "Denver Sports 104.3 HD3",
+          "video": {
+            "css_class": null,
+            "title": "NCHC.tv",
+            "url": "https://nchchockey.com/tv/schedule/week/2025-03-09",
+            "label": null
+          },
+          "audio": {
+            "css_class": null,
+            "title": "Live Audio",
+            "url": "https://tuner.bonneville.com/live/KKFN-HD3",
+            "label": null
+          },
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 127,
+          "title": "NCHC Frozen Faceoff",
+          "website": null
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15235,
+        "date": "2025-03-14T17:00:00",
+        "time": "5 p.m. MT",
+        "conference": false,
+        "location": "Denver, Colo.",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Tennis",
+          "abbreviation": "MTEN",
+          "shortname": "mten",
+          "short_display": "M Tennis",
+          "global_sport_shortname": "mten"
+        },
+        "opponent": {
+          "id": 420,
+          "title": "Idaho State",
+          "prefix": null,
+          "website": "http://isubengals.com",
+          "location": "Pocatello, ID",
+          "conference": false,
+          "mascot": "Bengals",
+          "image": {
+            "filename": "Idaho-State.png",
+            "path": "/images/logos",
+            "title": "Idaho State University Logo",
+            "alt": "Idaho State University Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": {
+          "id": 12,
+          "title": "Denver Tennis Park",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15363,
+        "date": "2025-03-14T19:00:00",
+        "time": "7 p.m. MT",
+        "conference": false,
+        "location": "Stanford, Calif.",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Gymnastics",
+          "abbreviation": "WGYM",
+          "shortname": "wgym",
+          "short_display": "W Gymnastics",
+          "global_sport_shortname": "wgym"
+        },
+        "opponent": {
+          "id": 329,
+          "title": "Stanford",
+          "prefix": null,
+          "website": "http://gostanford.com",
+          "location": "Stanford, CA",
+          "conference": false,
+          "mascot": "Cardinal",
+          "image": {
+            "filename": "Stanford_Updated_Logo.png",
+            "path": "/images/logos",
+            "title": "Stanford University Logo",
+            "alt": "Stanford University Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": [
+            {
+              "css_class": "_blank",
+              "title": "History v STAN",
+              "url": "/sports/womens-gymnastics/opponent-history/stanford-university/329",
+              "label": null
+            }
+          ],
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-15T00:00:00",
+    "events": [
+      {
+        "id": 15192,
+        "date": "2025-03-12T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Ocala, Fla.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Swimming & Diving",
+          "abbreviation": "MSWIM",
+          "shortname": "mswim",
+          "short_display": "M Swimming",
+          "global_sport_shortname": "mswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NIC Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15212,
+        "date": "2025-03-12T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Ocala, Fla.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Swimming & Diving",
+          "abbreviation": "WSWIM",
+          "shortname": "wswim",
+          "short_display": "W Swimming",
+          "global_sport_shortname": "wswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NIC Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15443,
+        "date": "2025-03-14T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Campus Sites",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Ice Hockey",
+          "abbreviation": "HKY",
+          "shortname": "mhockey",
+          "short_display": "M Hockey",
+          "global_sport_shortname": "mhockey"
+        },
+        "opponent": {
+          "id": 443,
+          "title": "Quarterfinals",
+          "prefix": null,
+          "website": "https://www.nchchockey.com/",
+          "location": "Colorado Springs, Colo.",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "cats.png",
+            "path": "/images/2018/6/29",
+            "title": "NCHC",
+            "alt": "NCHC"
+          }
+        },
+        "media": {
+          "tv": "NCHC.tv",
+          "radio": "Denver Sports 104.3 HD3",
+          "video": {
+            "css_class": null,
+            "title": "NCHC.tv",
+            "url": "https://nchchockey.com/tv/schedule/week/2025-03-09",
+            "label": null
+          },
+          "audio": {
+            "css_class": null,
+            "title": "Live Audio",
+            "url": "https://tuner.bonneville.com/live/KKFN-HD3",
+            "label": null
+          },
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 127,
+          "title": "NCHC Frozen Faceoff",
+          "website": null
+        },
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-16T00:00:00",
+    "events": [
+      {
+        "id": 15443,
+        "date": "2025-03-14T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Campus Sites",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Ice Hockey",
+          "abbreviation": "HKY",
+          "shortname": "mhockey",
+          "short_display": "M Hockey",
+          "global_sport_shortname": "mhockey"
+        },
+        "opponent": {
+          "id": 443,
+          "title": "Quarterfinals",
+          "prefix": null,
+          "website": "https://www.nchchockey.com/",
+          "location": "Colorado Springs, Colo.",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "cats.png",
+            "path": "/images/2018/6/29",
+            "title": "NCHC",
+            "alt": "NCHC"
+          }
+        },
+        "media": {
+          "tv": "NCHC.tv",
+          "radio": "Denver Sports 104.3 HD3",
+          "video": {
+            "css_class": null,
+            "title": "NCHC.tv",
+            "url": "https://nchchockey.com/tv/schedule/week/2025-03-09",
+            "label": null
+          },
+          "audio": {
+            "css_class": null,
+            "title": "Live Audio",
+            "url": "https://tuner.bonneville.com/live/KKFN-HD3",
+            "label": null
+          },
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 127,
+          "title": "NCHC Frozen Faceoff",
+          "website": null
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15431,
+        "date": "2025-03-16T10:00:00",
+        "time": "10 a.m. MT",
+        "conference": false,
+        "location": "San Antonio, Texas",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Tennis",
+          "abbreviation": "WTEN",
+          "shortname": "wten",
+          "short_display": "W Tennis",
+          "global_sport_shortname": "wten"
+        },
+        "opponent": {
+          "id": 469,
+          "title": "UTSA",
+          "prefix": null,
+          "website": "http://www.goutsa.com/",
+          "location": "San Antonio, TX",
+          "conference": false,
+          "mascot": "Roadrunners",
+          "image": {
+            "filename": "UTSARowdy.png",
+            "path": "/images/logos",
+            "title": "UTSA Logo",
+            "alt": "UTSA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15413,
+        "date": "2025-03-16T12:00:00",
+        "time": "12 p.m. MT",
+        "conference": false,
+        "location": "Denver, Colo.",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Lacrosse",
+          "abbreviation": "MLAX",
+          "shortname": "mlax",
+          "short_display": "M Lacrosse",
+          "global_sport_shortname": "mlax"
+        },
+        "opponent": {
+          "id": 386,
+          "title": "Ohio State",
+          "prefix": null,
+          "website": "http://www.ohiostatebuckeyes.com",
+          "location": "Columbus, OH",
+          "conference": false,
+          "mascot": "Buckeyes",
+          "image": {
+            "filename": "ohio_state_logo.png",
+            "path": "/images/logos",
+            "title": "Ohio State University Logo",
+            "alt": "Ohio State University Logo"
+          }
+        },
+        "media": {
+          "tv": "Midco Sports Plus",
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://denverpioneers.com/sidearmstats/mlax/media",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": "Tickets",
+            "url": "https://denverpioneers.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:DENVER:LX25:LX05:&linkID=denver&dataAccId=677&locale=en_US&siteId=ev_denver&RSRC=comms&RDAT=release&RSRC=comms&RDAT=single&utm_source=sidearm&utm_medium=web&utm_campaign=schedule",
+            "label": "Tickets: Ohio State on March 16 12 p.m. MT"
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": {
+          "id": 10,
+          "title": "Peter Barton Lacrosse Stadium",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-17T00:00:00",
+    "events": null
+  },
+  {
+    "date": "2025-03-18T00:00:00",
+    "events": [
+      {
+        "id": 15395,
+        "date": "2025-03-18T11:00:00",
+        "time": "11 a.m. MT",
+        "conference": false,
+        "location": "Denver, Colorado",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Lacrosse",
+          "abbreviation": "WLAX",
+          "shortname": "wlax",
+          "short_display": "W Lacrosse",
+          "global_sport_shortname": "wlax"
+        },
+        "opponent": {
+          "id": 402,
+          "title": "Stony Brook",
+          "prefix": null,
+          "website": "http://www.stonybrookathletics.com/",
+          "location": "Stony Brook, NY",
+          "conference": false,
+          "mascot": "Seawolves",
+          "image": {
+            "filename": "stony.png",
+            "path": "/images/logos",
+            "title": "Stony Brook University Logo",
+            "alt": "Stony Brook University Logo"
+          }
+        },
+        "media": {
+          "tv": "Midco Sports Plus",
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://denverpioneers.com/sidearmstats/wlax/media",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": "Tickets",
+            "url": "https://denverpioneers.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:DENVER:WLX25:WLX04:&linkID=denver&dataAccId=677&locale=en_US&siteId=ev_denver&RSRC=comms&RDAT=release&RSRC=comms&RDAT=singlegame&utm_source=schedule&utm_medium=web&utm_campaign=singlegame",
+            "label": "Tickets: Stony Brook on March 18 11 a.m. MT"
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": {
+          "id": 10,
+          "title": "Peter Barton Lacrosse Stadium",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-19T00:00:00",
+    "events": [
+      {
+        "id": 15213,
+        "date": "2025-03-19T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Federal Way, Wash.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Swimming & Diving",
+          "abbreviation": "WSWIM",
+          "shortname": "wswim",
+          "short_display": "W Swimming",
+          "global_sport_shortname": "wswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-20T00:00:00",
+    "events": [
+      {
+        "id": 15213,
+        "date": "2025-03-19T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Federal Way, Wash.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Swimming & Diving",
+          "abbreviation": "WSWIM",
+          "shortname": "wswim",
+          "short_display": "W Swimming",
+          "global_sport_shortname": "wswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-21T00:00:00",
+    "events": [
+      {
+        "id": 15213,
+        "date": "2025-03-19T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Federal Way, Wash.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Swimming & Diving",
+          "abbreviation": "WSWIM",
+          "shortname": "wswim",
+          "short_display": "W Swimming",
+          "global_sport_shortname": "wswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15444,
+        "date": "2025-03-21T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "St. Paul, Minn. / Xcel Energy Center",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Ice Hockey",
+          "abbreviation": "HKY",
+          "shortname": "mhockey",
+          "short_display": "M Hockey",
+          "global_sport_shortname": "mhockey"
+        },
+        "opponent": {
+          "id": 443,
+          "title": "Frozen Faceoff",
+          "prefix": null,
+          "website": "https://www.nchchockey.com/",
+          "location": "Colorado Springs, Colo.",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "cats.png",
+            "path": "/images/2018/6/29",
+            "title": "NCHC",
+            "alt": "NCHC"
+          }
+        },
+        "media": {
+          "tv": "CBS Sports Network",
+          "radio": "Denver Sports 104.3 HD3",
+          "video": {
+            "css_class": null,
+            "title": "Watch",
+            "url": "https://www.cbssports.com/watch/cbs-sports-network",
+            "label": null
+          },
+          "audio": {
+            "css_class": null,
+            "title": "Live Audio",
+            "url": "https://tuner.bonneville.com/live/KKFN-HD3",
+            "label": null
+          },
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 127,
+          "title": "NCHC Frozen Faceoff",
+          "website": null
+        },
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-22T00:00:00",
+    "events": [
+      {
+        "id": 15213,
+        "date": "2025-03-19T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Federal Way, Wash.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Swimming & Diving",
+          "abbreviation": "WSWIM",
+          "shortname": "wswim",
+          "short_display": "W Swimming",
+          "global_sport_shortname": "wswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15444,
+        "date": "2025-03-21T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "St. Paul, Minn. / Xcel Energy Center",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Ice Hockey",
+          "abbreviation": "HKY",
+          "shortname": "mhockey",
+          "short_display": "M Hockey",
+          "global_sport_shortname": "mhockey"
+        },
+        "opponent": {
+          "id": 443,
+          "title": "Frozen Faceoff",
+          "prefix": null,
+          "website": "https://www.nchchockey.com/",
+          "location": "Colorado Springs, Colo.",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "cats.png",
+            "path": "/images/2018/6/29",
+            "title": "NCHC",
+            "alt": "NCHC"
+          }
+        },
+        "media": {
+          "tv": "CBS Sports Network",
+          "radio": "Denver Sports 104.3 HD3",
+          "video": {
+            "css_class": null,
+            "title": "Watch",
+            "url": "https://www.cbssports.com/watch/cbs-sports-network",
+            "label": null
+          },
+          "audio": {
+            "css_class": null,
+            "title": "Live Audio",
+            "url": "https://tuner.bonneville.com/live/KKFN-HD3",
+            "label": null
+          },
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 127,
+          "title": "NCHC Frozen Faceoff",
+          "website": null
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15364,
+        "date": "2025-03-22T00:00:00",
+        "time": "TBD",
+        "conference": false,
+        "location": "West Valley City, Utah",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Gymnastics",
+          "abbreviation": "WGYM",
+          "shortname": "wgym",
+          "short_display": "W Gymnastics",
+          "global_sport_shortname": "wgym"
+        },
+        "opponent": {
+          "id": 365,
+          "title": "Big 12 Championship",
+          "prefix": null,
+          "website": "http://www.big12sports.com/",
+          "location": "Irving, TX ",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "Big12_bw.png",
+            "path": "/images/logos",
+            "title": "Big 12 Logo",
+            "alt": "Big 12 Logo"
+          }
+        },
+        "media": {
+          "tv": "ESPN+ / ESPNU",
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15414,
+        "date": "2025-03-22T18:00:00",
+        "time": "6 p.m. MT",
+        "conference": false,
+        "location": "Dallas, Texas (Highland Park High School)",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Lacrosse",
+          "abbreviation": "MLAX",
+          "shortname": "mlax",
+          "short_display": "M Lacrosse",
+          "global_sport_shortname": "mlax"
+        },
+        "opponent": {
+          "id": 381,
+          "title": "Duke",
+          "prefix": null,
+          "website": "http://www.goduke.com/",
+          "location": "Durham, NC",
+          "conference": false,
+          "mascot": "Blue Devils",
+          "image": {
+            "filename": "Duke.png",
+            "path": "/images/logos",
+            "title": "Duke University Logo",
+            "alt": "Duke University Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://goduke.com/sidearmstats/mlax/summary",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": "Tickets",
+            "url": "https://www.ticketsignup.io/TicketEvent/DenvervsDuke",
+            "label": "Tickets: Duke on March 22 6 p.m. MT"
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-23T00:00:00",
+    "events": [
+      {
+        "id": 15396,
+        "date": "2025-03-23T09:00:00",
+        "time": "9 a.m. MT",
+        "conference": true,
+        "location": "Cincinnati, Ohio",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Lacrosse",
+          "abbreviation": "WLAX",
+          "shortname": "wlax",
+          "short_display": "W Lacrosse",
+          "global_sport_shortname": "wlax"
+        },
+        "opponent": {
+          "id": 624,
+          "title": "Xavier",
+          "prefix": null,
+          "website": "http://www.goxavier.com/",
+          "location": "Cincinnati, OH",
+          "conference": false,
+          "mascot": "Musketeers",
+          "image": {
+            "filename": "Xavier_.png",
+            "path": "/images/logos",
+            "title": "Xavier University Logo",
+            "alt": "Xavier University Logo"
+          }
+        },
+        "media": {
+          "tv": "FloSports",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://flosports.link/3zR1kxj",
+            "label": null
+          },
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://stats.statbroadcast.com/broadcast/?id=579990",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-24T00:00:00",
+    "events": [
+      {
+        "id": 15107,
+        "date": "2025-03-24T00:00:00",
+        "time": "",
+        "conference": false,
+        "location": "Phoenix, Ariz.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Golf",
+          "abbreviation": "MGLF",
+          "shortname": "mgolf",
+          "short_display": "M Golf",
+          "global_sport_shortname": "mgolf"
+        },
+        "opponent": {
+          "id": 309,
+          "title": "Round 1/2",
+          "prefix": null,
+          "website": "http://www.csurams.com/",
+          "location": "Minneapolis, MN",
+          "conference": false,
+          "mascot": "Golden Gophers",
+          "image": {
+            "filename": "Minnesota-200.png",
+            "path": "/images/logos",
+            "title": "University of Minnesota Logo",
+            "alt": "University of Minnesota Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 312,
+          "title": "Gopher Invitational",
+          "website": "https://gophersports.com/"
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15132,
+        "date": "2025-03-24T00:00:00",
+        "time": "",
+        "conference": false,
+        "location": "Maui, Hawaii",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Golf",
+          "abbreviation": "WGLF",
+          "shortname": "wgolf",
+          "short_display": "W Golf",
+          "global_sport_shortname": "wgolf"
+        },
+        "opponent": {
+          "id": 516,
+          "title": "Round 1",
+          "prefix": null,
+          "website": "http://arizonawildcats.com",
+          "location": "Manoa, HI",
+          "conference": false,
+          "mascot": "Warriors",
+          "image": {
+            "filename": "v13.png",
+            "path": "/images/logos",
+            "title": "University of Hawaii Logo",
+            "alt": "University of Hawaii Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 316,
+          "title": "Dr. Donnis Thompson Invitational",
+          "website": "https://hawaiiathletics.com/"
+        },
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-25T00:00:00",
+    "events": [
+      {
+        "id": 15133,
+        "date": "2025-03-25T00:00:00",
+        "time": "",
+        "conference": false,
+        "location": "Maui, Hawaii",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Golf",
+          "abbreviation": "WGLF",
+          "shortname": "wgolf",
+          "short_display": "W Golf",
+          "global_sport_shortname": "wgolf"
+        },
+        "opponent": {
+          "id": 516,
+          "title": "Round 2",
+          "prefix": null,
+          "website": "http://arizonawildcats.com",
+          "location": "Manoa, HI",
+          "conference": false,
+          "mascot": "Warriors",
+          "image": {
+            "filename": "v13.png",
+            "path": "/images/logos",
+            "title": "University of Hawaii Logo",
+            "alt": "University of Hawaii Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 316,
+          "title": "Dr. Donnis Thompson Invitational",
+          "website": "https://hawaiiathletics.com/"
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15108,
+        "date": "2025-03-25T00:00:00",
+        "time": "",
+        "conference": false,
+        "location": "Phoenix, Ariz.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Golf",
+          "abbreviation": "MGLF",
+          "shortname": "mgolf",
+          "short_display": "M Golf",
+          "global_sport_shortname": "mgolf"
+        },
+        "opponent": {
+          "id": 309,
+          "title": "Round 3",
+          "prefix": null,
+          "website": "http://www.thesundevils.com/",
+          "location": "Minneapolis, MN",
+          "conference": false,
+          "mascot": "Golden Gophers",
+          "image": {
+            "filename": "Minnesota-200.png",
+            "path": "/images/logos",
+            "title": "University of Minnesota Logo",
+            "alt": "University of Minnesota Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 312,
+          "title": "Gopher Invitational",
+          "website": "https://gophersports.com/"
+        },
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-26T00:00:00",
+    "events": [
+      {
+        "id": 15193,
+        "date": "2025-03-26T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Federal Way, Wash.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Swimming & Diving",
+          "abbreviation": "MSWIM",
+          "shortname": "mswim",
+          "short_display": "M Swimming",
+          "global_sport_shortname": "mswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15134,
+        "date": "2025-03-26T00:00:00",
+        "time": "",
+        "conference": false,
+        "location": "Maui, Hawaii",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Golf",
+          "abbreviation": "WGLF",
+          "shortname": "wgolf",
+          "short_display": "W Golf",
+          "global_sport_shortname": "wgolf"
+        },
+        "opponent": {
+          "id": 516,
+          "title": "Round 3",
+          "prefix": null,
+          "website": "http://www.thesundevils.com/",
+          "location": "Manoa, HI",
+          "conference": false,
+          "mascot": "Warriors",
+          "image": {
+            "filename": "v13.png",
+            "path": "/images/logos",
+            "title": "University of Hawaii Logo",
+            "alt": "University of Hawaii Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 316,
+          "title": "Dr. Donnis Thompson Invitational",
+          "website": "https://hawaiiathletics.com/"
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15081,
+        "date": "2025-03-26T11:00:00",
+        "time": "11 a.m. MT",
+        "conference": false,
+        "location": "New York, N.Y.",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Tennis",
+          "abbreviation": "WTEN",
+          "shortname": "wten",
+          "short_display": "W Tennis",
+          "global_sport_shortname": "wten"
+        },
+        "opponent": {
+          "id": 413,
+          "title": "Columbia",
+          "prefix": null,
+          "website": "http://www.gocolumbialions.com/",
+          "location": "New York, NY",
+          "conference": false,
+          "mascot": "Lions",
+          "image": {
+            "filename": "ColumbiaLogo2024.png",
+            "path": "/images/logos",
+            "title": "Columbia University Logo",
+            "alt": "Columbia University Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-27T00:00:00",
+    "events": [
+      {
+        "id": 15193,
+        "date": "2025-03-26T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Federal Way, Wash.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Swimming & Diving",
+          "abbreviation": "MSWIM",
+          "shortname": "mswim",
+          "short_display": "M Swimming",
+          "global_sport_shortname": "mswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-28T00:00:00",
+    "events": [
+      {
+        "id": 15193,
+        "date": "2025-03-26T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Federal Way, Wash.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Swimming & Diving",
+          "abbreviation": "MSWIM",
+          "shortname": "mswim",
+          "short_display": "M Swimming",
+          "global_sport_shortname": "mswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15082,
+        "date": "2025-03-28T11:00:00",
+        "time": "11 a.m. MT",
+        "conference": false,
+        "location": "Hanover, N.H.",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Tennis",
+          "abbreviation": "WTEN",
+          "shortname": "wten",
+          "short_display": "W Tennis",
+          "global_sport_shortname": "wten"
+        },
+        "opponent": {
+          "id": 375,
+          "title": "Dartmouth",
+          "prefix": null,
+          "website": "http://www.dartmouthsports.com/",
+          "location": "Hanover, NH",
+          "conference": false,
+          "mascot": "Big Green",
+          "image": {
+            "filename": "Dartmouth 200x200 (1).png",
+            "path": "/images/logos",
+            "title": "Dartmouth College Logo",
+            "alt": "Dartmouth College Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15236,
+        "date": "2025-03-28T12:00:00",
+        "time": "12 p.m. MT",
+        "conference": true,
+        "location": "Normal, Ill.",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Tennis",
+          "abbreviation": "MTEN",
+          "shortname": "mten",
+          "short_display": "M Tennis",
+          "global_sport_shortname": "mten"
+        },
+        "opponent": {
+          "id": 366,
+          "title": "Illinois State",
+          "prefix": null,
+          "website": "http://goredbirds.com",
+          "location": "Normal, IL",
+          "conference": false,
+          "mascot": "Redbirds",
+          "image": {
+            "filename": "Illinois_State_2023.png",
+            "path": "/images/logos",
+            "title": "Illinois State University Logo",
+            "alt": "Illinois State University Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-29T00:00:00",
+    "events": [
+      {
+        "id": 15193,
+        "date": "2025-03-26T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "Federal Way, Wash.",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Swimming & Diving",
+          "abbreviation": "MSWIM",
+          "shortname": "mswim",
+          "short_display": "M Swimming",
+          "global_sport_shortname": "mswim"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Championships",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15083,
+        "date": "2025-03-29T11:00:00",
+        "time": "11 a.m. MT",
+        "conference": false,
+        "location": "Cambridge, Mass.",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Tennis",
+          "abbreviation": "WTEN",
+          "shortname": "wten",
+          "short_display": "W Tennis",
+          "global_sport_shortname": "wten"
+        },
+        "opponent": {
+          "id": 321,
+          "title": "Harvard",
+          "prefix": null,
+          "website": "http://www.gocrimson.com/",
+          "location": "Cambridge, MA",
+          "conference": false,
+          "mascot": "Crimson",
+          "image": {
+            "filename": "harvardlogo.png",
+            "path": "/images/logos",
+            "title": "Harvard University Logo",
+            "alt": "Harvard University Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15397,
+        "date": "2025-03-29T11:00:00",
+        "time": "11 a.m. MT",
+        "conference": true,
+        "location": "Denver, Colorado",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Lacrosse",
+          "abbreviation": "WLAX",
+          "shortname": "wlax",
+          "short_display": "W Lacrosse",
+          "global_sport_shortname": "wlax"
+        },
+        "opponent": {
+          "id": 388,
+          "title": "Georgetown",
+          "prefix": null,
+          "website": "http://www.guhoyas.com/",
+          "location": "Washington, DC",
+          "conference": false,
+          "mascot": "Hoyas",
+          "image": {
+            "filename": "Georgetown_Hoyas_200x200.png",
+            "path": "/images/logos",
+            "title": "Georgetown University Logo",
+            "alt": "Georgetown"
+          }
+        },
+        "media": {
+          "tv": "Altitude 2/Midco Sports Plus",
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://denverpioneers.com/sidearmstats/wlax/media",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": "Tickets",
+            "url": "https://denverpioneers.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:DENVER:WLX25:WLX05:&linkID=denver&dataAccId=677&locale=en_US&siteId=ev_denver&RSRC=comms&RDAT=release&RSRC=comms&RDAT=singlegame&utm_source=schedule&utm_medium=web&utm_campaign=singlegame",
+            "label": "Tickets: Georgetown on March 29 11 a.m. MT"
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": {
+          "id": 10,
+          "title": "Peter Barton Lacrosse Stadium",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15415,
+        "date": "2025-03-29T14:00:00",
+        "time": "2 p.m. MT",
+        "conference": false,
+        "location": "Denver, Colo.",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Lacrosse",
+          "abbreviation": "MLAX",
+          "shortname": "mlax",
+          "short_display": "M Lacrosse",
+          "global_sport_shortname": "mlax"
+        },
+        "opponent": {
+          "id": 389,
+          "title": "Villanova",
+          "prefix": null,
+          "website": "http://www.villanova.com/",
+          "location": "Villanova, PA",
+          "conference": false,
+          "mascot": "Wildcats",
+          "image": {
+            "filename": "Villanova.png",
+            "path": "/images/logos",
+            "title": "Villanova University Logo",
+            "alt": "Villanova"
+          }
+        },
+        "media": {
+          "tv": "Altitude 2/Midco Sports Plus",
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://denverpioneers.com/sidearmstats/mlax/media",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": "Tickets",
+            "url": "https://denverpioneers.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:DENVER:LX25:LX06:&linkID=denver&dataAccId=677&locale=en_US&siteId=ev_denver&RSRC=comms&RDAT=release&RSRC=comms&RDAT=single&utm_source=sidearm&utm_medium=web&utm_campaign=schedule",
+            "label": "Tickets: Villanova on March 29 2 p.m. MT"
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": {
+          "id": 10,
+          "title": "Peter Barton Lacrosse Stadium",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-30T00:00:00",
+    "events": [
+      {
+        "id": 15237,
+        "date": "2025-03-30T09:30:00",
+        "time": "9:30 a.m. MT",
+        "conference": true,
+        "location": "Tulsa, Okla.",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Tennis",
+          "abbreviation": "MTEN",
+          "shortname": "mten",
+          "short_display": "M Tennis",
+          "global_sport_shortname": "mten"
+        },
+        "opponent": {
+          "id": 330,
+          "title": "Oral Roberts",
+          "prefix": null,
+          "website": "http://oruathletics.com",
+          "location": "Tulsa, OK",
+          "conference": false,
+          "mascot": "Golden Eagles",
+          "image": {
+            "filename": "Oral_Roberts_200x200.png",
+            "path": "/images/logos",
+            "title": "Oral Roberts University Logo",
+            "alt": "Oral Roberts University Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-03-31T00:00:00",
+    "events": null
+  },
+  {
+    "date": "2025-04-01T00:00:00",
+    "events": null
+  },
+  {
+    "date": "2025-04-02T00:00:00",
+    "events": [
+      {
+        "id": 15365,
+        "date": "2025-04-02T00:00:00",
+        "time": "TBD",
+        "conference": false,
+        "location": "TBD",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Gymnastics",
+          "abbreviation": "WGYM",
+          "shortname": "wgym",
+          "short_display": "W Gymnastics",
+          "global_sport_shortname": "wgym"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Regionals",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 80,
+          "title": "NCAA Regionals",
+          "website": "https://www.ncaa.com/championships/gymnastics-women/nc"
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15398,
+        "date": "2025-04-02T11:00:00",
+        "time": "11 a.m. MT",
+        "conference": true,
+        "location": "Milwaukee, Wisconsin",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Lacrosse",
+          "abbreviation": "WLAX",
+          "shortname": "wlax",
+          "short_display": "W Lacrosse",
+          "global_sport_shortname": "wlax"
+        },
+        "opponent": {
+          "id": 392,
+          "title": "Marquette",
+          "prefix": null,
+          "website": "http://gomarquette.com",
+          "location": "Milwaukee, WI",
+          "conference": false,
+          "mascot": "Golden Eagles",
+          "image": {
+            "filename": "Marquette_.png",
+            "path": "/images/logos",
+            "title": "Marquette University Logo",
+            "alt": "Marquette University Logo"
+          }
+        },
+        "media": {
+          "tv": "FloSports",
+          "radio": null,
+          "video": {
+            "css_class": null,
+            "title": "Live Video",
+            "url": "https://go.flosports.tv/partner/big-east?utm_campaign=bigeast&utm_medium=partner&utm_source=teams&utm_content=teams&utm_term=marquette&rtid=&coverage_id=",
+            "label": null
+          },
+          "audio": null,
+          "stats": {
+            "css_class": null,
+            "title": "Live Stats",
+            "url": "https://gomarquette.com/sidearmstats/wlax/summary",
+            "label": null
+          },
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-04-03T00:00:00",
+    "events": [
+      {
+        "id": 15365,
+        "date": "2025-04-02T00:00:00",
+        "time": "TBD",
+        "conference": false,
+        "location": "TBD",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Gymnastics",
+          "abbreviation": "WGYM",
+          "shortname": "wgym",
+          "short_display": "W Gymnastics",
+          "global_sport_shortname": "wgym"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Regionals",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 80,
+          "title": "NCAA Regionals",
+          "website": "https://www.ncaa.com/championships/gymnastics-women/nc"
+        },
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04T00:00:00",
+    "events": [
+      {
+        "id": 15365,
+        "date": "2025-04-02T00:00:00",
+        "time": "TBD",
+        "conference": false,
+        "location": "TBD",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Gymnastics",
+          "abbreviation": "WGYM",
+          "shortname": "wgym",
+          "short_display": "W Gymnastics",
+          "global_sport_shortname": "wgym"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Regionals",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 80,
+          "title": "NCAA Regionals",
+          "website": "https://www.ncaa.com/championships/gymnastics-women/nc"
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15238,
+        "date": "2025-04-04T12:00:00",
+        "time": "12 p.m. MT",
+        "conference": true,
+        "location": "Denver, Colo.",
+        "location_indicator": "H",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Tennis",
+          "abbreviation": "MTEN",
+          "shortname": "mten",
+          "short_display": "M Tennis",
+          "global_sport_shortname": "mten"
+        },
+        "opponent": {
+          "id": 93,
+          "title": "Omaha",
+          "prefix": null,
+          "website": "http://www.omavs.com",
+          "location": "Omaha, NE",
+          "conference": false,
+          "mascot": "Mavericks",
+          "image": {
+            "filename": "omaha_logo_200x200.png",
+            "path": "/images/logos",
+            "title": "University of Nebraska at Omaha Logo",
+            "alt": "Omaha"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": {
+          "id": 12,
+          "title": "Denver Tennis Park",
+          "url": ""
+        },
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  },
+  {
+    "date": "2025-04-05T00:00:00",
+    "events": [
+      {
+        "id": 15365,
+        "date": "2025-04-02T00:00:00",
+        "time": "TBD",
+        "conference": false,
+        "location": "TBD",
+        "location_indicator": "N",
+        "show_at_vs": true,
+        "at_vs": "vs",
+        "status": "A",
+        "noplay_text": null,
+        "type": "P",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Gymnastics",
+          "abbreviation": "WGYM",
+          "shortname": "wgym",
+          "short_display": "W Gymnastics",
+          "global_sport_shortname": "wgym"
+        },
+        "opponent": {
+          "id": 314,
+          "title": "NCAA Regionals",
+          "prefix": null,
+          "website": "http://www.ncaa.com/",
+          "location": "Indianapolis, IN",
+          "conference": false,
+          "mascot": null,
+          "image": {
+            "filename": "NCAALogoUpdated.png",
+            "path": "/images/logos",
+            "title": "NCAA Logo",
+            "alt": "NCAA Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": {
+          "id": 80,
+          "title": "NCAA Regionals",
+          "website": "https://www.ncaa.com/championships/gymnastics-women/nc"
+        },
+        "gamelinks": null
+      },
+      {
+        "id": 15436,
+        "date": "2025-04-05T00:00:00",
+        "time": "TBA",
+        "conference": false,
+        "location": "USAFA, Colo.",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "S",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Soccer",
+          "abbreviation": "MSOC",
+          "shortname": "msoc",
+          "short_display": "M Soccer",
+          "global_sport_shortname": "msoc"
+        },
+        "opponent": {
+          "id": 312,
+          "title": "Air Force",
+          "prefix": null,
+          "website": "http://www.goairforcefalcons.com",
+          "location": "USAF Academy, CO",
+          "conference": false,
+          "mascot": "Falcons",
+          "image": {
+            "filename": "Air_Force.png",
+            "path": "/images/logos",
+            "title": "Air Force Logo",
+            "alt": "Air Force"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15416,
+        "date": "2025-04-05T11:00:00",
+        "time": "11 a.m. MT",
+        "conference": false,
+        "location": "Queens, N.Y.",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Men's Lacrosse",
+          "abbreviation": "MLAX",
+          "shortname": "mlax",
+          "short_display": "M Lacrosse",
+          "global_sport_shortname": "mlax"
+        },
+        "opponent": {
+          "id": 390,
+          "title": "St. John's",
+          "prefix": null,
+          "website": "http://www.redstormsports.com/",
+          "location": "Queens, NY",
+          "conference": false,
+          "mascot": "Red Storm",
+          "image": {
+            "filename": "Saint_Johns.png",
+            "path": "/images/logos",
+            "title": "St. John's University Logo",
+            "alt": "St. John's"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      },
+      {
+        "id": 15085,
+        "date": "2025-04-05T13:00:00",
+        "time": "1 p.m. MT",
+        "conference": true,
+        "location": "Tulsa, Okla.",
+        "location_indicator": "A",
+        "show_at_vs": true,
+        "at_vs": "at",
+        "status": "A",
+        "noplay_text": null,
+        "type": "R",
+        "promotion": null,
+        "is_a_doubleheader": false,
+        "sport": {
+          "id": 0,
+          "title": "Women's Tennis",
+          "abbreviation": "WTEN",
+          "shortname": "wten",
+          "short_display": "W Tennis",
+          "global_sport_shortname": "wten"
+        },
+        "opponent": {
+          "id": 330,
+          "title": "Oral Roberts",
+          "prefix": null,
+          "website": "http://oruathletics.com",
+          "location": "Tulsa, OK",
+          "conference": false,
+          "mascot": "Golden Eagles",
+          "image": {
+            "filename": "Oral_Roberts_200x200.png",
+            "path": "/images/logos",
+            "title": "Oral Roberts University Logo",
+            "alt": "Oral Roberts University Logo"
+          }
+        },
+        "media": {
+          "tv": null,
+          "radio": null,
+          "video": null,
+          "audio": null,
+          "stats": null,
+          "tickets": {
+            "css_class": null,
+            "title": null,
+            "url": null,
+            "label": null
+          },
+          "preview": null,
+          "gamefiles": null,
+          "custom_display_fields": []
+        },
+        "result": null,
+        "facility": null,
+        "tournament": null,
+        "gamelinks": null
+      }
+    ]
+  }
+]
